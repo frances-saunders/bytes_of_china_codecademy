@@ -1,3 +1,5 @@
+/*This project fulfills all the reqs for the "Bytes of China" db project in Codecademy*/
+
 CREATE TABLE restaurant (
   id integer PRIMARY KEY,
   name varchar(40),
