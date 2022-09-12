@@ -1,3 +1,6 @@
+/*This file contains values to enter into the db provided by Codecademy*/
+
+
 /* 
  *--------------------------------------------
  Insert values for restaurant
